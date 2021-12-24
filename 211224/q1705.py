@@ -1,3 +1,4 @@
+# Time Limit Exceeded
 def brutal(apples: list, days: list):
     day = 0
     apple_dict = dict()

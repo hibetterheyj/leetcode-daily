@@ -36,3 +36,4 @@ days.length == n
 0 <= apples[i], days[i] <= 2 * 104
 只有在 apples[i] = 0 时，days[i] = 0 才成立
 原题链接：https://leetcode-cn.com/problems/maximum-number-of-eaten-apples
+https://leetcode.com/problems/maximum-number-of-eaten-apples
